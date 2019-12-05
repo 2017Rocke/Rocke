@@ -1,2 +1,0 @@
-# Rocke
-rapid and strong
